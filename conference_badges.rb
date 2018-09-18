@@ -14,6 +14,7 @@ def assign_rooms(speakers)
   speakers.each_with_index do |val, index|
     arr << puts "Hello, #{val}! You'll be assigned to room #{index+1}!"
   end
+end
 def printer(names)
   batch_badge_creator names
   assign_rooms names
