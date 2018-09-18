@@ -7,4 +7,3 @@ def batch_badge_creator(names)
     badge_maker name
   end
 end
-
